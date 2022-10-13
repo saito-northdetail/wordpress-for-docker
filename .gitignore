@@ -1,0 +1,5 @@
+.env
+db_data/*
+phpmyadmin/*
+wp-content/*
+!.gitkeep
