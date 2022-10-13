@@ -63,3 +63,8 @@ $ code twentynineteen/
 
 - WordPressの外観からクローンしてきたテーマを有効化
 
+## TODO
+- テーマのリンター&フォーマッターを導入
+  - `composer`を使えるようにする(既存のWPイメージではなくDockerfileを用意？)
+  - `PHP_CodeSniffer`を導入し、`WordPress-Coding-Standards`のルールを使えるようにする
+
